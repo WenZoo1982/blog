@@ -1,9 +1,34 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于 WenZoo
 
-::github{repo="saicaca/fuwari"}
+你好，我是 WenZoo。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+这是我的个人技术博客，用于记录学习、实践和探索过程。
+
+关注方向：
+
+- AI 工具与本地部署
+- Windows 系统与 PowerShell
+- Linux 系统管理
+- Git 与开源工具
+- SQL 数据库
+- 网络安全与渗透测试
+- Kali Linux 学习实践
+
+这里记录技术折腾过程、问题解决方案以及一些个人经验总结。
+
+希望这些内容能够帮助同样喜欢探索技术的朋友。
+
+
+## 关于本站
+
+WenZoo Blog 是一个持续更新的个人技术知识库。
+
+本站主要分享：
+
+- 软件工具使用经验
+- 系统配置记录
+- 开源项目探索
+- AI 应用实践
+- 网络安全学习笔记
+
+内容以个人实践为主，欢迎交流讨论。
