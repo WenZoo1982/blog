@@ -58,21 +58,26 @@ export const profileConfig: ProfileConfig = {
 	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "QQ",
+			icon: "fa6-brands:qq", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "tencent://message/?uin=36353000",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Bilibili",
+			icon: "fa6-brands:bilibili",
+			url: "#",
 		},
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com",
+			name: "Tiktok",
+			icon: "fa6-brands:tiktok",
+			url: "#",
+		},
+		{
+			name: "Cloudflare EDT 导航",
+			icon: "fa6-brands:cloudflare",
+			url: "https://bestcf.pages.dev",
 		},
 	],
 };
