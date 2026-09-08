@@ -5,7 +5,7 @@ description: "Windows11 25H2系统安装跳过硬件检测。"
 tags: ["Win11", "跳过检测","系统安装"]
 image: "./cover.png"
 category: 系统运维
-draft: true
+draft: false
 ---
 ## 1、下载Windows11系统镜像
 

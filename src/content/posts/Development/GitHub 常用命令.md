@@ -5,7 +5,7 @@ description: "GitHub 常用命令。"
 tags: ["GitHub","Git"]
 image: "./cover.png"
 category: 开发技术
-draft: true
+draft: false
 ---
 ## 确认 GitHub 身份信息
 
