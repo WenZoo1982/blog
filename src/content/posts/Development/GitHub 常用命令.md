@@ -3,7 +3,7 @@ title: "GitHub 常用命令"
 published: 2026-09-08
 description: "GitHub 常用命令。"
 tags: ["GitHub","Git"]
-image: "./cover.png"
+image: "./cover.webp"
 category: 开发技术
 draft: false
 ---

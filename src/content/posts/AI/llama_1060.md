@@ -3,7 +3,7 @@ title: "NVIDIA GeForce GTX 1060显卡，本地部署llama.cpp一键跑 GGUF 无�
 published: 2026-09-10
 description: "NVIDIA GeForce GTX 1060显卡，本地部署llama.cpp一键跑 GGUF 无审查模型！"
 tags: ["AI", "无审查","本地部署","NVIDIA GeForce GTX 1060"]
-image: "./cover_llama1060.png"
+image: "./cover_llama1060.webp"
 category: 人工智能
 draft: false
 ---
@@ -192,7 +192,7 @@ CMake 4.x
 
 CUDA Toolkit 11.8下载地址
 
-![](llama1060_01.png)
+![](llama1060_01.webp)
 
 安装完成后，默认路径应该类似：
 
@@ -224,7 +224,7 @@ nvcc --version
 release 11.8
 ```
 
-![](llama1060_02.png)
+![](llama1060_02.webp)
 
 ## 第七步：这里先停一下，做第一次检查
 
@@ -260,7 +260,7 @@ PowerShell 执行：
 dir "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC"
 ```
 
-![](llama1060_03.png)
+![](llama1060_03.webp)
 
 再执行：
 
@@ -268,7 +268,7 @@ dir "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSV
 & "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe"
 ```
 
-![](llama1060_04.png)
+![](llama1060_04.webp)
 
 正常应该看到：
 
@@ -350,7 +350,7 @@ cmake -B build -G "Visual Studio 17 2022" -A x64 -T "v142,cuda=11.8" -DGGML_CUDA
 
 针对你的 **GTX 1060 / Pascal / SM 6.1**。
 
-![](llama1060_05.png)
+![](llama1060_05.webp)
 
 说明CMake 配置已经完全成功。
 
@@ -380,7 +380,7 @@ llama.cpp启动：
 D:\AI\llama.cpp\build\bin\Release\llama-server.exe -m "D:\AI\models\google_gemma-3-4b-it-Q4_K_M.gguf" -ngl 999 -c 8192 --host 127.0.0.1 --port 8080
 ```
 
-![](llama1060_06.png)
+![](llama1060_06.webp)
 
 在浏览器输入：http://127.0.0.1:8080 回车，出现聊天对话框可以正常使用，本地部署成功。
 

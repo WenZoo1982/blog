@@ -3,7 +3,7 @@ title: "llama.cpp 本地跑 “无审查模型” 速度暴涨！N卡/A卡/Intel
 published: 2026-09-10
 description: "llama.cpp 最新版太强了！本地跑 “无审查模型” 速度暴涨！N卡/A卡/Intel 全支持。"
 tags: ["AI", "无审查","本地部署"]
-image: "./cover_llama.png"
+image: "./cover_llama.webp"
 category: 人工智能
 draft: false
 ---
@@ -226,10 +226,10 @@ pause
 
 将上方的命令保存到文本文档里，另存为的时候选择utf-8格式，最后将txt后缀改成bat即可！双击运行即可看到下方的选项
 
-![](./llama_001.png)
+![](./llama_001.webp)
 
 输入模型对应的数字就可以成功启动模型
 
-![](llama_002.png)
+![](llama_002.webp)
 
-![](llama_003.png)
+![](llama_003.webp)

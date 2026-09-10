@@ -2,7 +2,7 @@
 title: "欢迎来到 WenZoo Blog"
 published: 2026-09-07
 description: "记录 AI、本地部署、系统配置与开源技术探索。"
-image: "./cover.png"
+image: "./cover.webp"
 tags: ["技术", "开源"]
 category: 随笔
 draft: false

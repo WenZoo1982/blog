@@ -3,7 +3,7 @@ title: "彻底删除 Windows.old 文件夹"
 published: 2026-09-09
 description: "彻底删除 Windows.old 文件夹的几种方式。"
 tags: ["Win11", "清理","系统安装"]
-image: "./cover_cleanmgr.png"
+image: "./cover_cleanmgr.webp"
 category: 系统运维
 draft: false
 ---
@@ -18,19 +18,19 @@ draft: false
 
     并回车，打开磁盘清理程序。
 
-   ![](./cleanmgr_1.png)
+   ![](./cleanmgr_1.webp)
 
 2. 选择 **C 盘**（Windows.old 所在盘），确定。
 
-   ![](./cleanmgr_2.png)
+   ![](./cleanmgr_2.webp)
 
 3. 点击 **清理系统文件**，再次选择 C 盘。
 
-   ![](./cleanmgr_1.png)
+   ![](./cleanmgr_1.webp)
 
 4. 在列表中勾选 **以前的 Windows 安装文件**，也可选择其他临时文件。
 
-   ![](C:\Users\Administrator\Desktop\test\cleanmgr_3.png)
+   ![](C:\Users\Administrator\Desktop\test\cleanmgr_3.webp)
 
 5. 点击 **确定** 并确认删除，系统会自动清理 Windows.old 文件夹。
 
@@ -38,7 +38,7 @@ draft: false
 
 ## 方法二：微软电脑管家
 
-![](./cleanmgr_4.png)
+![](./cleanmgr_4.webp)
 
 
 
@@ -84,7 +84,7 @@ icacls C:\Windows.old /grant administrators:F /t
 rmdir /s /q C:\Windows.old
 ```
 
-![](./cleanmgr_5.png)
+![](./cleanmgr_5.webp)
 
 ---
 
