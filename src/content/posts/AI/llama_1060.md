@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA GeForce GTX 1060显卡，本地部署llama.cpp一键跑 GGUF 无审查模型！"
-published: 2026-09-08
+published: 2026-09-10
 description: "NVIDIA GeForce GTX 1060显卡，本地部署llama.cpp一键跑 GGUF 无审查模型！"
 tags: ["AI", "无审查","本地部署","NVIDIA GeForce GTX 1060"]
 image: "./cover_llama1060.png"

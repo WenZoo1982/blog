@@ -1,6 +1,6 @@
 ---
 title: "llama.cpp 本地跑 “无审查模型” 速度暴涨！N卡/A卡/Intel 全支持"
-published: 2026-09-08
+published: 2026-09-10
 description: "llama.cpp 最新版太强了！本地跑 “无审查模型” 速度暴涨！N卡/A卡/Intel 全支持。"
 tags: ["AI", "无审查","本地部署"]
 image: "./cover_llama.png"
