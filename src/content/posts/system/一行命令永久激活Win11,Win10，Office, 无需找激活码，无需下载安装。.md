@@ -10,7 +10,9 @@ draft: false
 
 分享一个开源的 Windows 和 Office 激活脚本，使用很简单，目前已知的最简单方法。不会触发病毒警报。
 
-该激活脚本目前已在 GitHub 上拥有 179K星，安全可靠，无需下载软件，无需去找序列号，直接在控制台输入一条命令即可激活 Windows 10/11，Office。
+该激活脚本目前已在 GitHub 上拥有 195K星，安全可靠，无需下载软件，无需去找序列号，直接在控制台输入一条命令即可激活 Windows 10/11，Office。
+
+开源项目地址：https://github.com/massgravel/Microsoft-Activation-Scripts
 
 **联网情况下，以管理员模式启动PowerShell**
 
@@ -20,11 +22,21 @@ draft: false
 
 ![](./2.png)
 
-1.2. **复制以下命令到Powershell窗口, 回车**
+**复制以下命令到Powershell窗口, 回车**
+
+For **Windows 8.1, 10 and 11**
 
 ```
 irm https://get.activated.win | iex
 ```
+
+如果上述内容被阻止（被ISP/DNS），请尝试此操作（需要更新Windows 10或11）：
+
+```
+iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+```
+
+
 
 ![](./3.png)
 
