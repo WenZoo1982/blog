@@ -9,7 +9,7 @@ draft: false
 ---
 ## 1、下载Windows11系统镜像
 
-下载地址：https://www.microsoft.com/zh/software-download/windows11
+下载地址：https://www.microsoft.com/zh-cn/software-download/windows11
 
 ![](./win11_01.webp)
 
