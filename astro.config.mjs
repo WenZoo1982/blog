@@ -26,6 +26,9 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
+	server: {
+		host: "127.0.0.1",
+	},
 	site: "https://wenzoo.cc.cd/",
 	base: "/",
 	trailingSlash: "always",
