@@ -33,6 +33,8 @@ Concat 是一款免费、开源的视频编辑器，是 macOS、Windows、Linux 
 🤖 可脚本化。 提供 JSON-RPC API，脚本和 AI 代理可以用它剪视频。从源码构建还会加上 gRPC 和命令行工具。
 🖥️ macOS、Windows、Linux、Android。 26 种语言。同一个应用，同样的项目文件。
 
+![](Concat_0.png)
+
 ## 通过网盘分享的文件：Concat安装包
 
 链接: 
