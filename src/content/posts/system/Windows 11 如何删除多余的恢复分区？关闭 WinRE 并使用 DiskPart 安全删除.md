@@ -1,6 +1,6 @@
 ---
 title: "Windows 11 如何删除多余的恢复分区？关闭 WinRE 并使用 DiskPart 安全删除"
-published: 2026-10-30
+published: 2026-10-31
 description: "Windows 11 如何删除多余的恢复分区？关闭 WinRE 并使用 DiskPart 安全删除。"
 tags: ["Windows 11", "Win11","移除恢复分区","DiskPart "]
 category: 系统运维
