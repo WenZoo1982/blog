@@ -2,7 +2,7 @@
 title: "分享一个我写的Edge移除工具"
 published: 2026-11-02
 description: "分享一个我写的Edge移除工具。"
-tags: ["Edge移除", "Edge","Edge浏览器"]
+tags: ["Edge移除","Edge","Edge浏览器"]
 category: 系统运维
 draft: false
 ---
