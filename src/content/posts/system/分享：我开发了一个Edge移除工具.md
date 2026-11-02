@@ -8,9 +8,9 @@ draft: false
 ---
 # WenZoo Edge Removal Tool
 
-**版本：v0.5.1**
+**版本：v0.5.1 **
 
-WenZoo Edge Removal Tool 是一款面向 Windows 的 PowerShell 工具，用于移除传统桌面版 Microsoft Edge，并提供备份与恢复功能。
+WenZoo Edge Removal Tool 是一款面向 Windows 的 PowerShell 工具，用于移除传统桌面版 Microsoft Edge，并提供备份与恢复功能。  
 
 > [!CAUTION]
 > 本工具会修改系统服务、计划任务、文件及注册表，具有系统级操作风险。使用前请阅读说明，并创建系统映像备份或虚拟机快照。请勿在无法恢复的设备上直接运行。
